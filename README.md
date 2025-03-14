@@ -15,3 +15,5 @@ Créer une mini-application backend avec FastAPI qui gère :
 1. **Cloner ce repo :**
    ```bash
    git clone https://github.com/OperIAcorp/test-technique.git
+pip install -r requirements.txt
+uvicorn main:app --reload
